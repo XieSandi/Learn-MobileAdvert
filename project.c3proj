@@ -65,7 +65,8 @@
 			"Sprite",
 			"REWARDED",
 			"MobileIAP",
-			"GooglePlay"
+			"GooglePlay",
+			"Button"
 		],
 		"subfolders": []
 	},

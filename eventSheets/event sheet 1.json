@@ -68,6 +68,24 @@
 				}
 			],
 			"sid": 759546281312367
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-clicked",
+					"objectClass": "Button",
+					"sid": 987782267970304
+				}
+			],
+			"actions": [
+				{
+					"id": "hide-banner",
+					"objectClass": "MobileAdvert",
+					"sid": 145679279009499
+				}
+			],
+			"sid": 387816976725915
 		}
 	],
 	"sid": 125224659006621
