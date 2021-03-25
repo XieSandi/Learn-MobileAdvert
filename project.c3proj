@@ -37,22 +37,6 @@
 			"author": "Scirra",
 			"version": "r234.4",
 			"bundled": false
-		},
-		{
-			"type": "plugin",
-			"id": "CORDOVAIAP",
-			"name": "Mobile IAP",
-			"author": "Scirra",
-			"version": "r234.4",
-			"bundled": false
-		},
-		{
-			"type": "plugin",
-			"id": "googleplay",
-			"name": "Google Play",
-			"author": "Scirra",
-			"version": "r234.4",
-			"bundled": false
 		}
 	],
 	"uniqueId": "83tlmqc3f28",
@@ -64,8 +48,6 @@
 			"INTERSTIAL",
 			"Sprite",
 			"REWARDED",
-			"MobileIAP",
-			"GooglePlay",
 			"Button"
 		],
 		"subfolders": []
