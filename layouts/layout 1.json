@@ -125,10 +125,10 @@
 					}
 				},
 				{
-					"type": "Button",
+					"type": "Close",
 					"properties": {
 						"type": "button",
-						"text": "OK",
+						"text": "Close",
 						"tooltip": "",
 						"initially-visible": true,
 						"enabled": true,
